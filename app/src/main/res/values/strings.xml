@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">p.mobile_modul2</string>
+    <string name="roll">roll</string>
+    <string name="roll_dice">roll dice</string>
+</resources>
